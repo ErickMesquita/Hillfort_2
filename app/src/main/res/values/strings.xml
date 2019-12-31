@@ -1,0 +1,47 @@
+<resources>
+  <string name="app_name">Hillfort</string>
+  <string name="company_name">Waterford Institute of Technology</string>
+
+
+  <string name="title_activity_login">Login</string>
+  <string name="hint_password">Password</string>
+  <string name="text_signup">First access? Sign Up!</string>
+
+  <string name="hint_hillfortTitle">Hillfort Title</string>
+  <string name="hint_hillfortDescription">Description </string>
+  <string name="button_addHillfort">Add Hillfort</string>
+  <string name="button_saveHillfort">Save Hillfort</string>
+  <string name="switch_assigned">Assign to it</string>
+  <string name="switch_visited">Visited</string>
+
+  <string name="title_activity_settings">Settings</string>
+  <string name="button_refresh">Refresh Hillforts</string>
+  <string name="refreshed">List Refreshed</string>
+  <string name="button_logout">Logout</string>
+
+  <string name="menu_showMap">Show Map</string>
+  <string name="menu_logout">Logout</string>
+  <string name="enter_hillfort_title"> Please enter a Hillfort Title </string>
+  <string name="save_hillfort"> Save Hillfort </string>
+  <string name="button_addImage"> Add Image </string>
+  <string name="select_hillfort_image">Select hillfort image</string>
+  <string name="change_hillfort_image">Change hillfort image</string>
+  <string name="button_location">Set Location</string>
+  <string name="title_activity_map">Map</string>
+  <string name="title_activity_hillfort_maps">Map of All Hillforts </string>
+  <string name="hillfort_image_placeholder">Hillfort Imagee</string>
+  <string name="hillfort_title_placeholder">Hillfort Title</string>
+  <string name="hillfort_description_placeholder">Hillfort Description</string>
+  <string name="menu_saveHillfort">Save</string>
+  <string name="title_activity_hillfort_list">Hillforts</string>
+  <string name="title_activity_hillfort">Hillfort</string>
+  <string name="title_activity_edit_location">Hillfort</string>
+
+  <string name="menu_addHillfort">Add</string>
+  <string name="menu_HillfortGlobalList">Global Hillforts List</string>
+  <string name="menu_HillfortList">Assigned Hillforts List</string>
+  <string name="menu_cancelAddHillfort">Cancel</string>
+  <string name="menu_cancelHillfort">Cancel</string>
+  <string name="menu_deleteHillfort">Delete</string>
+  <string name="menu_Settings">Settings</string>
+</resources>

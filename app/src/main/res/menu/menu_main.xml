@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item
+    android:id="@+id/item_map"
+    android:icon="@android:drawable/ic_menu_mapmode"
+    android:title="@string/menu_addHillfort"
+    app:showAsAction="always"/>
+  <item
+    android:id="@+id/item_add"
+    android:icon="@drawable/ic_note_add_24px"
+    android:title="@string/menu_addHillfort"
+    app:showAsAction="always" />
+
+  <item
+      android:id="@+id/item_settings"
+      android:icon="@drawable/ic_settings_applications_24px"
+      android:title="@string/menu_Settings"
+      app:showAsAction="never" />
+
+  <item
+      android:id="@+id/item_logout"
+      android:title="@string/menu_logout"
+      android:visible="true"
+      app:showAsAction="never" />
+</menu>
